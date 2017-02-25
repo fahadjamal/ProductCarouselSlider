@@ -1,0 +1,1 @@
+../../../PXRotatorView/Pod/Classes/Models/PXRotatorBaseViewModel.h

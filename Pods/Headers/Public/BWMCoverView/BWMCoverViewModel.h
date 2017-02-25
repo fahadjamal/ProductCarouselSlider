@@ -1,0 +1,1 @@
+../../../BWMCoverView/BWMCoverView/BWMCoverView/BWMCoverViewModel.h

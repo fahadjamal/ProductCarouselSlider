@@ -1,0 +1,36 @@
+PODS:
+  - BWMCoverView (0.0.1):
+    - SDWebImage (~> 3.7.2)
+  - GBDeviceInfo (3.6.1):
+    - GBDeviceInfo/Core (= 3.6.1)
+  - GBDeviceInfo/Core (3.6.1)
+  - iCarousel (1.8.2)
+  - PureLayout (3.0.1)
+  - PXRotatorView (0.5.8):
+    - iCarousel (~> 1.8.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - UIActivityIndicator-for-SDWebImage (1.2):
+    - SDWebImage (~> 3.7)
+  - UITableView+FDTemplateLayoutCell (1.4)
+
+DEPENDENCIES:
+  - BWMCoverView
+  - GBDeviceInfo
+  - PureLayout
+  - PXRotatorView
+  - UIActivityIndicator-for-SDWebImage
+  - UITableView+FDTemplateLayoutCell
+
+SPEC CHECKSUMS:
+  BWMCoverView: 31219387534b71eb95a97cf9d3793516e6fbae7a
+  GBDeviceInfo: d9267d7d7d2ee3e53e4ea64df392689a930607a4
+  iCarousel: 67c8a43da5a46795b56aadfc96cd36a16f6149b2
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  PXRotatorView: 3b34ed79fb65d78e8b528630bfe294bf2bbe825f
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  UIActivityIndicator-for-SDWebImage: 7bf7ebbf0ed1747dedc0d6e949c4603a6d0f9e0c
+  UITableView+FDTemplateLayoutCell: 234e1582bcc4e18461af91155123bb96538ed030
+
+COCOAPODS: 0.38.0
